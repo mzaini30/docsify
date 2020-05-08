@@ -1,1 +1,2 @@
 - [Beranda](/)
+- [Blog](/blog/)
