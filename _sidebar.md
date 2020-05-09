@@ -1,2 +1,3 @@
 - [Beranda](/)
 - [Blog](/blog/)
+- [Kumpulan kode](/kode/)
