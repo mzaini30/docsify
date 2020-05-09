@@ -1,3 +1,4 @@
 - [Beranda](/)
 - [Blog](/blog/)
 - [Kumpulan kode](/kode/)
+- [Project Euler](/euler/)
