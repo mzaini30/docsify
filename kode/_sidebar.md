@@ -1,1 +1,0 @@
-- [Semuanya jadi i](/kode/i)

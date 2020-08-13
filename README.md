@@ -1,1 +1,1 @@
-# Zen
+Website ini akan berisi dengan berbagai pengetahuan.
